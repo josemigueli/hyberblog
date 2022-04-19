@@ -42,3 +42,10 @@ body
 {
     padding: 1em;
 }
+footer {
+    color: #fff;
+    background-color: #33A;
+    padding: 10px 0px;
+    margin: 0 auto;
+    width: 70%;
+}
